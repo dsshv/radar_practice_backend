@@ -1,0 +1,8 @@
+.env
+migrations
+node_modules
+email-templates
+dist
+lib
+.vscode
+*.test.ts

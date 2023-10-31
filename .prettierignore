@@ -1,0 +1,7 @@
+.env
+migrations
+node_modules
+email-templates
+dist
+.vscode
+lib
